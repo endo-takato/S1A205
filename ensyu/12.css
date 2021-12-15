@@ -13,7 +13,7 @@ a.second{
     line-height: 2;
 }
 a.second:link{color: #00f;}
-a.visited{color: #90a;}
+a.second:visited{color: #90a;}
 a.second:hover{
     background-color: #ff0;
 }
