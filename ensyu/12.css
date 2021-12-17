@@ -12,9 +12,9 @@ a.second{
     color: #00f;
     line-height: 2;
 }
-a.second:link{color: #00f;}
-a.second:visited{color: #90a;}
-a.second:hover{
+a.second:link {color: #00f;}
+a.second:visited {color: #90a;}
+a.second:hover {
     background-color: #ff0;
 }
 a.second:active{
