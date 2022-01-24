@@ -19,6 +19,10 @@ img {
   border-style: none;
 }
 
+.LOGO{
+  max-width: 50%;
+}
+
 ul,
 li {
   list-style: none;
